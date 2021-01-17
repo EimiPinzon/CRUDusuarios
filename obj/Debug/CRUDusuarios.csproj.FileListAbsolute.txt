@@ -1,0 +1,9 @@
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\bin\Debug\CRUDusuarios.exe
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\bin\Debug\CRUDusuarios.pdb
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.csprojAssemblyReference.cache
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.Presentacion.Usuarios.resources
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.Properties.Resources.resources
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.csproj.GenerateResource.cache
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.csproj.CoreCompileInputs.cache
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.exe
+C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.pdb
