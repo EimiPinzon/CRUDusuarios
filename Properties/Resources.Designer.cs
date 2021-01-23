@@ -63,6 +63,16 @@ namespace CRUDusuarios.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icono1 {
+            get {
+                object obj = ResourceManager.GetObject("icono1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap simbolo_de_interfaz_de_lupa_de_busqueda {
             get {
                 object obj = ResourceManager.GetObject("simbolo-de-interfaz-de-lupa-de-busqueda", resourceCulture);

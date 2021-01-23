@@ -7,3 +7,12 @@ C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.csproj
 C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.csproj.CoreCompileInputs.cache
 C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.exe
 C:\Users\57301\Documents\CódigosEimi\CRUDusuarios\obj\Debug\CRUDusuarios.pdb
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\bin\Debug\CRUDusuarios.exe
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\obj\Debug\CRUDusuarios.Presentacion.Usuarios.resources
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\obj\Debug\CRUDusuarios.Properties.Resources.resources
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\obj\Debug\CRUDusuarios.csproj.GenerateResource.cache
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\obj\Debug\CRUDusuarios.csproj.CoreCompileInputs.cache
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\obj\Debug\CRUDusuarios.exe
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\obj\Debug\CRUDusuarios.pdb
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\obj\Debug\CRUDusuarios.csprojAssemblyReference.cache
+C:\Users\gavim\OneDrive\Desktop\eimi rica\CRUDusuarios\bin\Debug\CRUDusuarios.pdb
